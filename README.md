@@ -62,7 +62,7 @@ How to edit the Plugin?
 There are two important ways in which the Plugin can be edited.
 
 1. Percent Chance:
-By modifying secretChance you can change the chance of encounter, if secretChance=100, then Secret Characters will spawn as soon as possible, which can be fun but also very disruptive.
+By modifying secretChance you can change the chance of encounter, if secretChance=100, then Secret Characters will appear as soon as possible, which can be fun but also very disruptive.
 
 2. Name List:
 This mod works by editing the name of a Character, so if you want to add your own EasterEgg Characters (with no special behavior, just name) you can expand the list by following the format and said name will enter the pool.
