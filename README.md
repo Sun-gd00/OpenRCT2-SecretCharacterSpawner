@@ -39,7 +39,7 @@ Secret Character List:
 			"Michael Schumacher",	//Drives Even Faster
             "Damon Hill"			//Drives Fastest
 
-Base chance for spawn is 0.5%, this means 1 every 200.
+Base chance for spawn is 0.5%, this means 1 every 200 guests is a Easter Egg Character.
 
 Change secretChance = x to edit percent chance to x.
 
