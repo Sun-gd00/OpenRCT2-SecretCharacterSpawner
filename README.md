@@ -68,9 +68,13 @@ By modifying secretChance you can change the chance of encounter, if secretChanc
 This mod works by editing the name of a Character, so if you want to add your own EasterEgg Characters (with no special behavior, just name) you can expand the list by following the format and said name will enter the pool.
 
 	...
+   
 	"Damon Hill",			//Drives Fastest
+
 	"Amogus Sanchez",		//Doesn't change behavior
+
 	"Uzumaki Goku"			//You may add whatever name you like
+
 	];
 
 Be sure to add a coma after the name, which has to be in quotations.
