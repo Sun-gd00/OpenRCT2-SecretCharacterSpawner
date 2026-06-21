@@ -40,4 +40,5 @@ Secret Character List:
             "Damon Hill"			//Drives Fastest
 
 Base chance for spawn is 0.5%, this means 1 every 200.
+
 Change secretChance = x to edit percent chance to x.
