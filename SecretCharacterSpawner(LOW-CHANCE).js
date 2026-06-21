@@ -7,7 +7,7 @@ registerPlugin({
 
     main: function () {
 
-        const secretChance = 0.5; // Percent Chance of Secret Character Spawn
+        const secretChance = 0.1; // Percent Chance of Secret Character Spawn
 		
         const secretNames = [
 			//RCT1
