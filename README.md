@@ -42,3 +42,37 @@ Secret Character List:
 Base chance for spawn is 0.5%, this means 1 every 200.
 
 Change secretChance = x to edit percent chance to x.
+
+----------
+
+What does it do?
+
+This Plugin first parses through the current guests in the Park, and marks them so they are not changed into a Secret Character.
+
+After this, every new guests will have a percent chance of getting it's name changed into one from the list.
+
+When the name is changed, the behavior of the guest will change, according to how Easteregg Characters work.
+
+There should not be any repetition on names already used, so no "2 Mr. Beans".
+
+----------
+
+How to edit the Plugin?
+
+There are two important ways in which the Plugin can be edited.
+
+1. Percent Chance:
+By modifying secretChance you can change the chance of encounter, if secretChance=100, then Secret Characters will spawn as soon as possible, which can be fun but also very disruptive.
+
+2. Name List:
+This mod works by editing the name of a Character, so if you want to add your own EasterEgg Characters (with no special behavior, just name) you can expand the list by following the format and said name will enter the pool.
+
+	...
+	"Damon Hill",			//Drives Fastest
+	"Amogus Sanchez",		//Doesn't change behavior
+	"Uzumaki Goku"			//You may add whatever name you like
+	];
+
+Be sure to add a coma after the name, which has to be in quotations.
+
+That's it, happy encounters!
