@@ -43,6 +43,8 @@ Base chance for spawn is 0.5%, this means 1 every 200 guests is a Easter Egg Cha
 
 Change secretChance = x to edit percent chance to x.
 
+Grab EITHER SecretCharacterSpawner OR SecretCharacterSpawner(LOWCHANCE), NOT BOTH.
+
 ----------
 
 What does it do?
